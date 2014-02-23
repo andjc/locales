@@ -1,4 +1,3 @@
-locales
-=======
+h1. Locales
 
 Locale data for supported languages
