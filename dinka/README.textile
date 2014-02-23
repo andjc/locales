@@ -1,0 +1,12 @@
+h1. Dinka locales
+
+The Dinka language (din) is divided into five languages in ISO 639-3. CLDR equates the ISO 639-2 "din" langauge code with the ISO 639-3 "dik" language code.
+
+Locales for the follwoing languages are under development:
+
+|ISO 839-3 code |Language name |Prominent dialects |
+|dip |Dinka, Northeastern |Padang |
+|diw |Dinka, Northwestern |Ruweng |
+|dib |Dinka, South Central |Agar |
+|dks |Dinka, Southeastern |Bor, Twic, Nyarweng & Hol |
+|dik |Dinka, Southwestern |Rek & Twic |

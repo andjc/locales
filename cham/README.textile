@@ -1,4 +1,4 @@
-h1. CHam locales
+h1. Cham locales
 
 There are two major Cham dialects:
  * Western Cham (cja) - used in Cambodia and Vietnam; and
