@@ -1,0 +1,9 @@
+h1. CHam locales
+
+There are two major Cham dialects:
+ * Western Cham (cja) - used in Cambodia and Vietnam; and
+ * Eastern Cham (cjm) - used in Vietnam.
+ 
+ Western Cham can be written in the CHam, Latin and Arabic scripts.
+ 
+ Eastern CHam can be written in the Cham and Latin scripts.
