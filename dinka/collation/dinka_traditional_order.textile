@@ -1,0 +1,27 @@
+﻿h1. Tentative notes on Dinka alphabet (Traditional order)
+
+<pre>
+a e i o u
+w y b p m
+n nh ŋ ny r
+d dh t th l
+k g ɣ c j
+ɛ ɔ
+ä ë ï ö ɛ̈ ɔ̈
+</pre>
+
+<pre>
+A < aa <<< Aa <<< AA < ä <<< Ä < ää <<< Ää <<< ÄÄ
+D < dh <<< Dh <<< DH
+E < ee <<< Ee <<< EE < ë <<< Ë < ëë <<< Ëë <<< ËË < ɛ <<< Ɛ < ɛɛ <<< ƐƐ < ɛ̈ <<< Ɛ̈ < ɛ̈ɛ̈ <<< Ɛ̈ɛ̈ <<< Ɛ̈Ɛ̈
+G < ɣ <<< Ɣ
+I < ii <<< Ii <<< II < ï <<< Ï < ïï <<< Ïï <<< ÏÏ
+N < nh <<< Nh <<< NH < ŋ <<< Ŋ < ny <<< Ny <<< NY
+O < oo <<< Oo <<< OO < ö <<< Ö < öö <<< Öö <<< ÖÖ < ɔ <<< Ɔ < ɔɔ <<< ƆƆ < ɔ̈ <<< Ɔ̈ < ɔ̈ɔ̈ <<< Ɔ̈ɔ̈ <<< Ɔ̈Ɔ̈
+T < th <<< Th <<< TH
+U < uu <<< Uu <<< UU
+</pre>
+
+<pre>
+a <<< A < e <<< E < i <<< I < o <<< O < u <<< U < w <<< W < y <<< Y < b <<< B < p <<< P < m <<< M < n <<< N < nh <<< Nh <<< NH < ŋ <<< Ŋ < ny <<< Ny <<< NY < r <<< R < d <<< D < dh <<< Dh <<< DH < t <<< T < th <<< Th <<< TH < l <<< L < k << K < g <<< G < ɣ <<< Ɣ < c <<< C < j <<< J < ɛ <<< Ɛ < ɔ <<< Ɔ < ä <<< Ä < ë <<< Ë < ï <<< Ï < ö <<< Ö < ɛ̈ <<< Ɛ̈ < ɔ̈ <<< Ɔ̈
+</pre>
